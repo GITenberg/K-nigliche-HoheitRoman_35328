@@ -1,0 +1,36 @@
+_repo: K-nigliche-HoheitRoman_35328
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 35328/35328-h/images/titel.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Thomas, Paul
+    - Mann, Paul Thomas
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35328'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courts and courtiers -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'German fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Königliche Hoheit: Roman'
+url: http://www.gutenberg.org/ebooks/35328
